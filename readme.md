@@ -10,7 +10,7 @@ I got tired of painfully editing a Microsoft word document each time, so I refor
 1. Use [iA writer](https://ia.net/writer) to edit `service-agreement.md`
 2. Edit the variables at the top of `service-agreement.md` to update the agreement details.
 3. Update the Exhibit A and B sections, which include the statement of work, payment schedule, list of deliverables, etc.
-4. Export as a PDF from iA writer. See `service-agreement-example.pdf` for a demo.
+4. Export as a PDF from iA writer. See `service-agreement.pdf` for a demo.
 
 [Visit iA writer's website for support](https://ia.net/writer/support)
 
