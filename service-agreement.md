@@ -5,6 +5,8 @@ my title: Design Director
 my email: mds@email.com
 my address: 123 Detach Instance Road
 my citystate: Athens, GA 30606
+my state: Georgia
+jurisdiction: Clarke County, Georgia
 day: Wednesday
 date: 12 August, 2020
 project type: Website UX/UI Design
@@ -63,7 +65,7 @@ Both parties agree that, neither party shall solicit or hire any employee or con
 No party shall assign, transfer or otherwise dispose of its rights or obligations under this Agreement, in whole or in part, without the prior written consent of the other parties, which consent shall not be unreasonably withheld. [%my nickname] may subcontract with third parties but such action shall not relieve [%my nickname] of any of its obligations hereunder.
 
 ## 6. Choice of Law
-This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia in the United States without reference to its conflicts of laws. Each party submits to the exclusive jurisdiction of the courts of Clarke County, Georgia and expressly waives any and all rights to bring any action in or before any other court.  Each of the parties expressly waives any and all objections such party may have to venue, including, without limitation, the inconvenience of such forum, in any of such courts.
+This Agreement shall be governed by and construed in accordance with the laws of the State of [%my state] in the United States without reference to its conflicts of laws. Each party submits to the exclusive jurisdiction of the courts of [%jurisdiction] and expressly waives any and all rights to bring any action in or before any other court.  Each of the parties expressly waives any and all objections such party may have to venue, including, without limitation, the inconvenience of such forum, in any of such courts.
 
 ## 7. Dispute Resolution
 In the event that at any time during the term of this Agreement a disagreement, dispute, controversy or a claim should arise out of, or relating to, the interpretation or performance under this Agreement or the breach or invalidity thereof, the parties will attempt in good faith to resolve their differences. If the parties are unable to resolve their differences, any dispute which is not resolved shall be referred to the court(s) listed above. Each party shall pay the fees of its respective attorneys, the expenses of its witnesses and any other expenses connected with presenting its claim. Notwithstanding the foregoing, either party shall be entitled to elect to seek injunctive or other equitable relief in a court of proper jurisdiction to enforce its Intellectual Property rights.
