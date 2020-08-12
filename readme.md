@@ -7,12 +7,12 @@ This is a legal agreement for my design services that I had drafted a by a forme
 I got tired of painfully editing a Microsoft word document each time, so I reformatted everything in markdown to work with iA Writer's variables.
 
 ## How to use it
-1. Use [iA writer](https://iawriter.com) to edit `service-agreement.md`
+1. Use [iA writer](https://ia.net/writer) to edit `service-agreement.md`
 2. Edit the variables at the top of `service-agreement.md` to update the agreement details.
 3. Update the Exhibit A and B sections, which include the statement of work, payment schedule, list of deliverables, etc.
 4. Export as a PDF from iA writer. See `service-agreement-example.pdf` for a demo.
 
-Visit [iA writer's website for support](https://ia.net/writer/support)
+[Visit iA writer's website for support](https://ia.net/writer/support)
 
 ## Disclaimer
 If you're considering using this for your own design project agreement, I would encourage you to read through the entire thing and edit it to your own liking. Additionally, you should consult with your own lawyer before proceeding.
