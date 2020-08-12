@@ -1,7 +1,6 @@
 # Service Agreement
 
-![markdown screenshot](_img/markdown.png)
-![pdf screenshot](_img/pdf.png)
+![markdown and pdf screenshot](_img/demo.png)
 
 This is a legal agreement I had drafted a long time ago by a former director of legal at a creative agency, for my design contracts. Over the years I've rewritten parts of it myself and had another lawyer review it for different clients, etc. 
 
