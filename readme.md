@@ -9,6 +9,9 @@ Readers should contact their attorney to obtain advice with respect to any parti
 The views expressed at, or through, this site are those of the individual authors writing in their individual capacities only – not those of their respective employers. All liability with respect to actions taken or not taken based on the contents of this site are hereby expressly disclaimed. The content on this posting is provided "as is;" no representations are made that the content is error-free.
 
 ## What is this?
+
+![ia writer screenshot](_img/ia-writer.png)
+
 This is a legal agreement I had drafted a long time ago by a former director of legal at a creative agency, for my design contracts. Over the years I've rewritten parts of it myself and had another lawyer review it for different clients, etc. 
 
 I got tired of editing a Microsoft word document, so I reformatted everything in markdown to work with iA writer's variable.

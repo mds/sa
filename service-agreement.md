@@ -20,7 +20,6 @@ terms: net 14 days
 
 # SERVICE AGREEMENT
 
-
 Hey, [%fname]! This is our Service Agreement (“Agreement”), dated **[%day]**, **[%date]**, between [%my company] (“[%my nickname]”, “Us,” “We,” “Our”), and [%entity] (“You”, “Your”, “Customer”). Intending be legally bound, we agree to the following terms:
 
 ## Definitions
