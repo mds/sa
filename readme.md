@@ -2,9 +2,9 @@
 
 ![markdown and pdf screenshot](_img/demo.png)
 
-This is a legal agreement I had drafted a long time ago by a former director of legal at a creative agency, for my design contracts. Over the years I've rewritten parts of it myself and had another lawyer review it for different clients, etc. 
+This is a legal agreement for my design services that I had drafted a long time ago by a former Director of Legal at a creative agency. Over the years I've rewritten parts of it myself and had other lawyers review it for different clients, etc. 
 
-I got tired of editing a Microsoft word document, so I reformatted everything in markdown to work with iA writer's variable.
+I got tired of editing a Microsoft word document, so I reformatted everything in markdown to work with iA writer's variables.
 
 ## How to use it
 1. Use [iA writer](https://iawriter.com) to edit `service-agreement.md`
