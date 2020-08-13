@@ -1,24 +1,24 @@
-my company: Studio MDS, LLC
-my nickname: MDS
-my name: Matt D. Smith
-my title: Design Director
-my email: mds@email.com
-my address: 123 Detach Instance Road
-my citystate: Athens, GA 30606
-my state: Georgia
-jurisdiction: Clarke County, Georgia
-day: Wednesday
-date: 12 August, 2020
-project type: Website UX/UI Design
-fname: Bob
-lname: Loblaw
-entity: Acme, Inc.
+my company:       Studio MDS, LLC
+my nickname:      MDS
+my name:          Matt D. Smith
+my title:         Design Director
+my email:         mds@email.com
+my address:       123 Detach Instance Road
+my citystate:     Athens, GA 30606
+my state:         Georgia
+jurisdiction:     Clarke County, Georgia
+day:              Wednesday
+date:             12 August, 2020
+project type:     Website UX/UI Design
+fname:            Bob
+lname:            Loblaw
+entity:           Acme, Inc.
 entity address: 1 Apple Park Way
 entity citystate: Cupertino, CA 94024
-email: bob@acme.com
-title: CEO
-total: $100,000 USD
-terms: net 14 days
+email:            bob@acme.com
+title:            CEO
+total:            $100,000 USD
+terms:            net 14 days
 
 # SERVICE AGREEMENT
 
@@ -203,5 +203,5 @@ Really looking forward to working with You. Thanks!
 +++
 # Exhibit B: Reference List for Design Deliverables
 
-- (this is where I would put jointly reviewed list of screens, sections, etc. make sure that you and your client are hyper aware of whats in this list)
+- (this is where I would put jointly reviewed list of screens, sections, etc. make sure that you and your client are hyper aware of what's in this list)
 
