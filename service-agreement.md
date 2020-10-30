@@ -1,3 +1,4 @@
+---
 my company:       Studio MDS, LLC
 my nickname:      MDS
 my name:          Matt D. Smith
@@ -19,6 +20,7 @@ email:            bob@acme.com
 title:            CEO
 total:            $100,000 USD
 terms:            net 14 days
+---
 
 # SERVICE AGREEMENT
 
